@@ -6,6 +6,7 @@ Uygulamada Populer yemekler , categoriler ,favori ekleme silme , yemegi bulma ve
 </br>
 Apk : https://mega.nz/file/9LhlTZiS#6xLQiSCBZ6cgPY-0Havc6qOfxUD48NrXAzWGLB8ATDA
 </br>
+</br>
 
 https://github.com/serif-omer-ozdemir/EasyFoodApp/assets/120248749/f7bd5a3d-69fb-45b4-8f0c-e6f1b637d0d5
 
