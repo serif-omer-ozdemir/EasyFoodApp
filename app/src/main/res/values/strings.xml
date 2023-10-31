@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">foodApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="What_would_you_like_to_eat">What would you like to eat</string>
+    <string name="over_popular_items"> Over popular items</string>
+    <string name="category">Category</string>
+    <string name="meal_name">Meal Name</string>
+    <string name="Instructions">-Instructions</string>
+    <string name="read_more">Read More...</string>
+
+
+</resources>
